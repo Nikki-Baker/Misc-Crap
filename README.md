@@ -1,2 +1,2 @@
 # Misc-Crap
-read name
+miscilanious crap
